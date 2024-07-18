@@ -1,4 +1,6 @@
-12
+12 //total number
+
+ID // post that has the comment // text
 	
 c1	post1	u1 Best of Luck
 c2	post1	u7 Interesting
