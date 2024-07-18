@@ -1,4 +1,10 @@
-12
+12 //total number
+
+ID 
+Date posted
+text
+user that made the post
+user that liked the post
 
 post1
 16 4 2024
