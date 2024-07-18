@@ -1,4 +1,7 @@
-20
+20 //total number
+
+ID // name
+
 u1	Amna Akram
 u2	Muhammad Ali
 u3	Waheed Khan
