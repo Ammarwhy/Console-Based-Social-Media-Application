@@ -1,5 +1,7 @@
 8 //total number
 
+ID // type // text
+
 post2 2 Mids
 post1 1 excited
 post11 3 Halwa Puri
